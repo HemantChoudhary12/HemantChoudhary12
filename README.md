@@ -6,7 +6,6 @@
 
 ## 🔍 About Me
 - 🎓 Final year MCA student from **Shri Vaishnav Vidyapeeth Vishwavidyalaya**
-- 🧠 Transitioned from Full Stack Developer 🚀
 - 🔧 Solved **300+ DSA problems** on LeetCode, GFG, and HackerRank
 - 📬 Reach me at **hemantchoudhary2000@gmail.com**
 
